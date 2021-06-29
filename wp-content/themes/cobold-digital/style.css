@@ -1539,6 +1539,10 @@ footer .copyright {
 }
 .blog-text p, #contact-us p.center-text {font-size: 15px; color: #777; margin-bottom: 30px;}
 #blog {padding-bottom: 0;}
+#comments, .navigation.post-navigation {
+    width: 1140px;
+    margin: 50px auto;
+}
 
 
 /* 
